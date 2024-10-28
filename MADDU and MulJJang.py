@@ -1,5 +1,5 @@
 def main():
-    print("안녕하세요! 숫자의 제곱을 계산해 드립니다.")
+    print("wo xing shi i willu square fo u")
     
     # 사용자로부터 숫자 입력 받기
     user_input = input("숫자를 입력하세요: ")
